@@ -1,5 +1,7 @@
 # CarSeat-Data-Analysis
 
+## visual code를 활용하면 더욱 더 가독성있게 보여준다.
+
 단변량분석 - Carseat 판매 회사
 
 < 목표 : Carseat 판매 실적 하락 원인 조사 >
